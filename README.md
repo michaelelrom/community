@@ -18,7 +18,7 @@ The directories in this repository will be structured as follows:
 
     Vendors
     ├── Vendor Name
-    │   ├── Vendor Product *(if applicable)*
+    │   ├── Vendor Product (if applicable)
     │   │   ├── OpenAPI
     │   │   ├── Examples
     │   │   │   ├── README.md
