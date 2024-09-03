@@ -14,7 +14,7 @@ The directories in this repository will be structured as follows:
     Sample Content
     ├── Tool
     │   └── Type
-    │       ├── file
+    │       └── file
 
     Vendors
     ├── Vendor Name
