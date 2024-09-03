@@ -1,0 +1,15 @@
+---
+- connection: network_cli
+  gather_facts: no
+  hosts: all
+
+  tasks:
+
+    - name: run command
+      register: result
+      asa_command:
+        commands:
+          - command: "{{ command }}"
+
+    - name: Result
+      debug: var=result

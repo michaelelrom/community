@@ -1,0 +1,50 @@
+# ansible-playbook f5_config.yml --extra-vars "f5_hostname=192.168.1.1 f5_username=admin f5_password=secret f5_partition=Common pool_name=my_pool virtual_server_name=my_vs pool_members=['192.168.1.10:80', '192.168.1.11:80'] virtual_server_ip=192.168.1.100 virtual_server_port=80"
+---
+- name: Configure F5 BIG-IP
+  hosts: localhost
+  gather_facts: no
+  vars:
+    ansible_connection: local
+    f5_hostname: "{{ f5_hostname | default('your_f5_hostname') }}"
+    f5_username: "{{ f5_username | default('your_f5_username') }}"
+    f5_password: "{{ f5_password | default('your_f5_password') }}"
+    f5_partition: "{{ f5_partition | default('Common') }}"
+    pool_name: "{{ pool_name | default('example_pool') }}"
+    virtual_server_name: "{{ virtual_server_name | default('example_vs') }}"
+    pool_members: "{{ pool_members | default(['192.168.1.10:80', '192.168.1.11:80']) }}"
+    virtual_server_ip: "{{ virtual_server_ip | default('192.168.1.100') }}"
+    virtual_server_port: "{{ virtual_server_port | default(80) }}"
+
+  tasks:
+    - name: Create a pool
+      f5bigip_pool:
+        provider:
+          server: "{{ f5_hostname }}"
+          user: "{{ f5_username }}"
+          password: "{{ f5_password }}"
+          validate_certs: no
+        partition: "{{ f5_partition }}"
+        name: "{{ pool_name }}"
+        state: present
+        lb_method: round-robin
+        members:
+          - name: "{{ item.split(':')[0] }}"
+            port: "{{ item.split(':')[1] }}"
+        with_items: "{{ pool_members }}"
+
+    - name: Create a virtual server
+      f5bigip_virtual_server:
+        provider:
+          server: "{{ f5_hostname }}"
+          user: "{{ f5_username }}"
+          password: "{{ f5_password }}"
+          validate_certs: no
+        partition: "{{ f5_partition }}"
+        name: "{{ virtual_server_name }}"
+        state: present
+        destination: "{{ virtual_server_ip }}:{{ virtual_server_port }}"
+        ip_protocol: tcp
+        pool: "{{ pool_name }}"
+        profiles:
+          - name: "http"
+          - name: "tcp"

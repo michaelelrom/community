@@ -1,0 +1,32 @@
+# ansible-playbook -i inventory.yml ios-port-turn-up-ipv4.yml --extra-vars="interfaceType=GigabitEthernet interfaceId=1 interfacePort=1 description=test ip=10.10.10.10 subnet=255.255.255.252 vlanRange=10-100"
+---
+- connection: network_cli
+  gather_facts: no
+  hosts: all
+
+  tasks:
+
+    - name: port turn up IPv4 interface
+      register: result_interface
+      ios_interfaces:
+        config:
+        - name: "{{ interfaceType }}{{ interfaceId }}.{{ interfacePort }}"
+          description: "{{ description }}"
+          enabled: true
+        state: merged
+
+    - name: Result interface
+      debug: var=result_interface
+
+    - name: port turn up IPv4 config
+      register: result_config
+      ios_config:
+        parents: interface {{ interfaceType }} {{ interfaceId }}.{{ interfacePort }}
+        lines:
+        - encapsulation dot1Q {{ interfacePort }} second-dot1q {{ vlanRange }}
+        - ip address {{ ip }} {{ subnet }}
+        - no shutdown
+
+    - name: Result config
+      debug: var=result_config
+

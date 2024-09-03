@@ -1,0 +1,48 @@
+{
+  "_id": "642db0f2355d8e01b8c83127",
+  "name": "Provision Cloud Application",
+  "description": "",
+  "componentName": "Provision Cloud Application",
+  "componentType": "workflows",
+  "gbac": {
+    "write": [],
+    "read": []
+  },
+  "created": "2023-04-05T17:33:38.841Z",
+  "createdBy": "jerry.dollens@itential.com",
+  "lastUpdated": "2024-02-08T16:08:03.459Z",
+  "lastUpdatedBy": "admin@pronghorn",
+  "triggers": [
+    {
+      "_id": "65c39a517806560327917db4",
+      "created": "2023-04-05T17:33:55.370Z",
+      "createdBy": "jerry.dollens@itential.com",
+      "lastUpdated": "2024-02-08T16:08:03.425Z",
+      "lastUpdatedBy": "admin@pronghorn",
+      "name": "Form Trigger",
+      "type": "manual",
+      "enabled": true,
+      "actionType": "automations",
+      "actionId": "642db0f2355d8e01b8c83127",
+      "description": "",
+      "formId": "Provision Cloud Application Form",
+      "formData": {
+        "aws": {},
+        "alkira": {
+          "tenantNetworkId": 1
+        },
+        "paloAlto": {
+          "username": "",
+          "maxInstanceCount": 1,
+          "minInstanceCount": 1,
+          "globalProtectEnabled": false,
+          "panoramaEnabled": false,
+          "inetZone": []
+        },
+        "iap": {}
+      },
+      "formSchemaHash": "5df2bc3535db6dc7cf5c2f6698b878e5dd8fd3142ab57c57d0d0cebda8a78536",
+      "migrationVersion": 2
+    }
+  ]
+}

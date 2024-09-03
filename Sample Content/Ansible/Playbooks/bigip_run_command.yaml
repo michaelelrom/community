@@ -1,0 +1,23 @@
+---
+- connection: local
+  gather_facts: no
+  hosts: all
+
+  tasks:
+
+    - name: run command
+      register: result
+      bigip_command:
+        commands: "{{ command }}"
+        provider:
+          server: "{{ server }}"
+          server_port: "{{ server_port }}"
+          password: "{{ password }}"
+          user: "{{ user }}"
+          validate_certs: "{{ validate_certs }}"
+          transport: "{{ transport }}"
+
+
+    - name: Result
+      debug: var=result
+
