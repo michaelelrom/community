@@ -1,6 +1,6 @@
 # Community
 
-Welcome to the Itential Community repository. Here you will find content that can be imported into your Itential products such as IAP (Itential Automation Platform) and IAG (Itential Automation Gateway).
+Welcome to the Itential Community repository. Here you will find content that can be imported into your Itential products such as IAP (Itential Automation Platform) and IAG (Itential Automation Gateway). The content is meant to be used as examples for your use cases. Feel free to sanitize and contribute back following our [contribution guide][contributing.md].
 
 ## Getting started
 
@@ -20,7 +20,12 @@ The directories in this repository will be structured as follows:
     ├── Vendor Name
     │   ├── Vendor Product *(if applicable)*
     │   │   ├── OpenAPI
+    │   │   ├── Examples
+    │   │   │   ├── README.md
+    │   │   │   ├── *.project.json
+    │   │   │   └── *.project.json
     │   │   ├── Projects
-    │   │   │   ├── readme.md
+    │   │   │   ├── README.md
+    │   │   │   ├── *.project.json
     │   │   │   └── *.project.json
 
