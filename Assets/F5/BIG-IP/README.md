@@ -17,9 +17,7 @@ Sample IAG 4.x Inventory using Ansible:
 ### F5 BIG-IP Project
 - Create Pool and Members
 - Create a Virtual Server
-<br />
-<br />
-- Sample Use Cases
+- _Sample Use Cases_
     - Create Pool, Members, and Virtual Server
 
 

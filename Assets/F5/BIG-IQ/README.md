@@ -4,9 +4,7 @@ Assets for the Itential Platform.
 ## Projects
 ### F5 BIG-IP Project
 - Run Script
-<br />
-<br />
-- Sample Use Cases
+- _Sample Use Cases_
     - Upgrade BIG-IP Device
 
 

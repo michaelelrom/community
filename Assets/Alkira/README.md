@@ -4,9 +4,7 @@ Assets for the Itential Platform.
 ## Projects
 ### Alkira Project
 - Get ID for Segment
-<br />
-<br />
-- Sample Use Cases
+- _Sample Use Cases_
     - Provision Cloud Application
 
 #### Dependencies

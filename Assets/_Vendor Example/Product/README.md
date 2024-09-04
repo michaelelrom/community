@@ -24,9 +24,7 @@ Sample IAG 4.x Inventory using Ansible:
 ### ServiceNow Project
 - Create Change
 - Close Change
-<br />
-<br />
-- Sample Use Cases
+- _Sample Use Cases_
     - Create RITM and Change
 
 #### Dependencies

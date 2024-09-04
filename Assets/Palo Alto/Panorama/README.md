@@ -9,9 +9,7 @@ Assets for the Itential Platform.
 - Download Software on a Firewall
 - Install Software on a Firewall
 - Commit
-<br />
-<br />
-- Sample Use Cases
+- _Sample Use Cases_
     - Create Security Pre or Post Rule
 
 - Reboot a Firewall

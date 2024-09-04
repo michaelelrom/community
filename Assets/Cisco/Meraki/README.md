@@ -8,9 +8,7 @@ Assets for the Itential Platform.
 ### Meraki Project
 - Create Network
 - Claim Devices
-<br />
-<br />
-- Sample Use Cases
+- _Sample Use Cases_
     - Create Network and Claim Devices
     - Create Network and Claim Devices - Reset
 

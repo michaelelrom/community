@@ -5,9 +5,7 @@ Assets for the Itential Platform.
 ### Kentik Project
 - Create Device
 - Device Flow Test
-<br />
-<br />
-- Sample Use Cases
+- _Sample Use Cases_
     - AWS Blocked Traffic Event
     - AWS Blocked Traffic Event - Reset
     - Device Onboarding
