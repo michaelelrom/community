@@ -4,7 +4,7 @@ Welcome to the Itential Community repository. Here you will find content that ca
 
 ## Getting started
 
-The directories in this repository will be structured as follows:
+If applicable, the directories in this repository will be structured as follows:
 
     Assets
     ├── Vendor
