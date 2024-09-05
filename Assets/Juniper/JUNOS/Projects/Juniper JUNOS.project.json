@@ -706,10 +706,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
-            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
+            "GitLab": "",
+            "GitHub": ""
           },
-          "email": "mike.elrom@itential.com"
+          "email": ""
         },
         "created": "1970-01-01T00:00:00.000Z",
         "groups": [],
@@ -1467,10 +1467,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
-            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
+            "GitLab": "",
+            "GitHub": ""
           },
-          "email": "mike.elrom@itential.com"
+          "email": ""
         },
         "created": "1970-01-01T00:00:00.000Z",
         "groups": [],
@@ -2369,10 +2369,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
-            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
+            "GitLab": "",
+            "GitHub": ""
           },
-          "email": "mike.elrom@itential.com"
+          "email": ""
         },
         "created": "1970-01-01T00:00:00.000Z",
         "groups": [],
@@ -3378,10 +3378,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
-            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
+            "GitLab": "",
+            "GitHub": ""
           },
-          "email": "mike.elrom@itential.com"
+          "email": ""
         },
         "font_size": 12,
         "lastUpdatedVersion": "4.69.3-2023.2.73",
@@ -3396,10 +3396,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
-            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
+            "GitLab": "",
+            "GitHub": ""
           },
-          "email": "mike.elrom@itential.com"
+          "email": ""
         },
         "canvasVersion": 3,
         "name": "Command Template Runner",

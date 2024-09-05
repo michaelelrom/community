@@ -2,7 +2,7 @@
 Assets for the Itential Platform.
 
 ## Projects
-### ServiceNow Project
+### IP Fabric Project
 - Create Network Snapshot
 - Compare Snapshot Inventory
 - Compare Network Routes from Snapshots

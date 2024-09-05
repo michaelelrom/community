@@ -1,11 +1,11 @@
-# GitHub Assets
+# GitLab Assets
 Assets for the Itential Platform.
 
 ## OpenAPIs
 - [GitLab Cloud 4](./OpenAPIs/cloud_4.json)
 
 ## Projects
-### ServiceNow Project
+### GitLab Project
 - Get a File
 - Create a Project
 - Create a Templated Project

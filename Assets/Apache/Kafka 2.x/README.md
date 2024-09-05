@@ -2,7 +2,6 @@
 Assets for the Itential Platform.
 
 ## Projects
-
 ### Apache Kafka 2.x Project
 - Produce Message
 - _Sample Use Cases_

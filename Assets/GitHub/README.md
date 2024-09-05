@@ -5,7 +5,7 @@ Assets for the Itential Platform.
 - [GitHub Cloud 3.13](./OpenAPIs/github_cloud_3.13.json)
 
 ## Projects
-### ServiceNow Project
+### GitHub Project
 - Create a Pull Request
 - Commit a File
 - Create a Branch

@@ -2,7 +2,7 @@
 Assets for the Itential Platform.
 
 ## Projects
-### ServiceNow Project
+### Versa Director Project
 - Check Director Version
 - Check Organization
 - Create a Device Group

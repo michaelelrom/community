@@ -15,7 +15,7 @@ Sample IAG 4.x Inventory using Ansible:
 ```
 
 ## Projects
-### Cisco ASA Project
+### Cisco NX-OS Project
 - Perform a Software Upgrade
 - Command Template Runner
 
