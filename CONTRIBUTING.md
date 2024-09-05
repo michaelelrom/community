@@ -3,9 +3,18 @@
 We welcome and appreciate contributions to our project! To ensure high-quality and consistent contributions, please follow the guidelines below.
 
 ## What We Look For
+
 - Workflows:
     - Examples - Examples of how to perform reusable generic tasks.
     - Sample Use Cases - An example of an orchestrated workflow that utilizes your contribution example.
+    - When submitting a Sample Use Case, include a corresponding Operations Manager Automation and Trigger (_when applicable_).
+- Golden Configuration:
+    - Template examples that illustrate an OS or the consumption of an API (in the case of API Compliance).
+- OpenAPIs:
+    - Version 2.x or 3.x of OpenAPI.
+- LCM Resource Models:
+    - Examples of Use Cases resource models.
+
 
 When submitting your contribution, please make sure it includes the following:
 
@@ -16,7 +25,9 @@ When submitting your contribution, please make sure it includes the following:
 - Aim for automation workflows that can be reused in different contexts.
 - Ensure workflows are documented and easy to understand.
 
-### 1. Housekeeping Items
+### 2. Housekeeping Items
+- Tested against the current GA release of Itential Platform.
+- Free from Errors
 - Include enough detail so that others can easily replicate the setup.
 - Clearly explain what your contribution does.
 - Describe why it is valuable and how it improves or complements existing functionality.
