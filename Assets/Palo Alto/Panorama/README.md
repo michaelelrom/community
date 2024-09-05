@@ -9,14 +9,12 @@ Assets for the Itential Platform.
 - Download Software on a Firewall
 - Install Software on a Firewall
 - Commit
-- _Sample Use Cases_
-    - Create Security Pre or Post Rule
-
 - Reboot a Firewall
 - Suspend a Firewall
-- Upgrade a HA Peer
-- Perform a Software Upgrade on a Firewall - Standalone
-- Perform a Software Upgrade on a Firewall - HA Pair
+- _Sample Use Cases_
+    - Create Security Pre or Post Rule
+    - Perform a Software Upgrade on a Firewall - Standalone
+    - Perform a Software Upgrade on a Firewall - HA Pair
 
 #### Dependencies
 - [Operations Manager Automations](./Automations/)

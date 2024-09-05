@@ -1,7 +1,7 @@
 {
   "_id": "66d0d43721161b4df27174c4",
   "iid": 46,
-  "name": "Juniper JUNOS Examples",
+  "name": "Juniper JUNOS",
   "description": "",
   "components": [
     {
@@ -694,7 +694,7 @@
         "tags": [],
         "type": "automation",
         "font_size": 12,
-        "last_updated": "2024-08-30T08:42:40.090Z",
+        "last_updated": "2024-08-31T15:12:19.899Z",
         "lastUpdatedVersion": "5.55.2-2023.2.5",
         "createdVersion": "5.40.5-2021.1.28.0",
         "preAutomationTime": 5400000,
@@ -706,10 +706,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "",
-            "GitHub": ""
+            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
+            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
           },
-          "email": ""
+          "email": "mike.elrom@itential.com"
         },
         "created": "1970-01-01T00:00:00.000Z",
         "groups": [],
@@ -1459,7 +1459,7 @@
         "createdVersion": "5.46.0-2023.1.30.0",
         "preAutomationTime": 0,
         "sla": 0,
-        "last_updated": "2024-08-30T08:47:01.131Z",
+        "last_updated": "2024-08-31T15:12:19.902Z",
         "canvasVersion": 3,
         "last_updated_by": {
           "provenance": "Local AAA",
@@ -1467,10 +1467,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "",
-            "GitHub": ""
+            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
+            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
           },
-          "email": ""
+          "email": "mike.elrom@itential.com"
         },
         "created": "1970-01-01T00:00:00.000Z",
         "groups": [],
@@ -2356,7 +2356,7 @@
         },
         "type": "automation",
         "font_size": 12,
-        "last_updated": "2024-08-30T00:08:36.262Z",
+        "last_updated": "2024-08-31T15:12:19.903Z",
         "lastUpdatedVersion": "5.55.2-2023.2.5",
         "createdVersion": "5.44.64-2022.1.27.0",
         "preAutomationTime": 0,
@@ -2369,10 +2369,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "",
-            "GitHub": ""
+            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
+            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
           },
-          "email": ""
+          "email": "mike.elrom@itential.com"
         },
         "created": "1970-01-01T00:00:00.000Z",
         "groups": [],
@@ -3378,17 +3378,17 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "",
-            "GitHub": ""
+            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
+            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
           },
-          "email": ""
+          "email": "mike.elrom@itential.com"
         },
         "font_size": 12,
         "lastUpdatedVersion": "4.69.3-2023.2.73",
         "preAutomationTime": 0,
         "sla": 0,
         "type": "automation",
-        "last_updated": "2024-08-30T00:08:36.264Z",
+        "last_updated": "2024-08-31T15:12:19.903Z",
         "created": "2024-08-29T20:04:07.760Z",
         "last_updated_by": {
           "provenance": "Local AAA",
@@ -3396,10 +3396,10 @@
           "firstname": "admin@itential",
           "inactive": false,
           "gitTokens": {
-            "GitLab": "",
-            "GitHub": ""
+            "GitLab": "$ENC84e6972b5038f94290c25e0bcf9a6d6fddf466c6d98a06f23862c444a24946920a84e8b2680b6ec93898",
+            "GitHub": "$ENC84e393225177ce558bcf684099a35568eae742e5aeb513c83d69f31dbf3901ca5ae294f4017a29ca6cce1c8eee172a24df8f5a8996a392ef5b469a00ff64e72592c236706de295f6df565cb3d88830f70895979b4293dfcbb17a82f212fed80973184e7ccd5ccee7e6730ee35a"
           },
-          "email": ""
+          "email": "mike.elrom@itential.com"
         },
         "canvasVersion": 3,
         "name": "Command Template Runner",
@@ -3439,7 +3439,7 @@
         ],
         "created": 1724976278490,
         "createdBy": null,
-        "lastUpdated": 1724976516268,
+        "lastUpdated": 1725117139924,
         "lastUpdatedBy": null
       }
     },
@@ -3485,7 +3485,7 @@
         ],
         "created": 1725007450283,
         "createdBy": null,
-        "lastUpdated": 1725007450283,
+        "lastUpdated": 1725117139935,
         "lastUpdatedBy": null
       }
     },
@@ -3526,7 +3526,7 @@
         ],
         "created": 1725007444090,
         "createdBy": null,
-        "lastUpdated": 1725007444090,
+        "lastUpdated": 1725117139933,
         "lastUpdatedBy": null
       }
     },
@@ -3556,7 +3556,7 @@
         ],
         "created": 1724976282140,
         "createdBy": null,
-        "lastUpdated": 1724976516272,
+        "lastUpdated": 1725117139937,
         "lastUpdatedBy": null
       }
     },
@@ -3639,7 +3639,7 @@
         ],
         "created": 1724976252353,
         "createdBy": null,
-        "lastUpdated": 1724976516273,
+        "lastUpdated": 1725117139939,
         "lastUpdatedBy": null
       }
     },
@@ -3669,7 +3669,7 @@
         ],
         "created": 1724976285764,
         "createdBy": null,
-        "lastUpdated": 1724976516273,
+        "lastUpdated": 1725117139939,
         "lastUpdatedBy": null
       }
     },
@@ -3689,7 +3689,7 @@
         "group": "Juniper JUNOS Configs",
         "description": "",
         "created": "2024-08-29T20:04:07.767Z",
-        "lastUpdated": "2024-08-30T00:08:36.275Z",
+        "lastUpdated": "2024-08-31T15:12:19.925Z",
         "name": "Port Turn Up",
         "createdBy": {
           "_id": "601ea9bff386a61ffd36b172",
@@ -4024,7 +4024,7 @@
           "provenance": "Local AAA",
           "username": "admin@itential"
         },
-        "lastUpdated": "2024-08-30T00:08:36.268Z",
+        "lastUpdated": "2024-08-31T15:12:19.928Z",
         "lastUpdatedBy": {
           "_id": "601ea9bff386a61ffd36b172",
           "provenance": "Local AAA",
@@ -4120,7 +4120,7 @@
           "provenance": "Local AAA",
           "username": "admin@itential"
         },
-        "lastUpdated": "2024-08-30T00:08:36.276Z",
+        "lastUpdated": "2024-08-31T15:12:19.928Z",
         "lastUpdatedBy": {
           "_id": "601ea9bff386a61ffd36b172",
           "provenance": "Local AAA",
@@ -4383,7 +4383,7 @@
           "provenance": "Local AAA",
           "username": "admin@itential"
         },
-        "lastUpdated": "2024-08-30T00:08:36.276Z",
+        "lastUpdated": "2024-08-31T15:12:19.930Z",
         "lastUpdatedBy": {
           "_id": "601ea9bff386a61ffd36b172",
           "provenance": "Local AAA",
@@ -4536,7 +4536,7 @@
           "provenance": "Local AAA",
           "username": "admin@itential"
         },
-        "lastUpdated": "2024-08-30T00:08:36.280Z",
+        "lastUpdated": "2024-08-31T15:12:19.931Z",
         "lastUpdatedBy": {
           "_id": "601ea9bff386a61ffd36b172",
           "provenance": "Local AAA",
@@ -4629,7 +4629,7 @@
           "provenance": "Local AAA",
           "username": "admin@itential"
         },
-        "lastUpdated": "2024-08-30T00:08:36.280Z",
+        "lastUpdated": "2024-08-31T15:12:19.929Z",
         "lastUpdatedBy": {
           "_id": "601ea9bff386a61ffd36b172",
           "provenance": "Local AAA",
@@ -4736,7 +4736,7 @@
     "provenance": "Local AAA",
     "username": "admin@itential"
   },
-  "lastUpdated": "2024-08-30T08:47:01.149Z",
+  "lastUpdated": "2024-08-31T15:12:19.944Z",
   "lastUpdatedBy": {
     "_id": "601ea9bff386a61ffd36b172",
     "provenance": "Local AAA",

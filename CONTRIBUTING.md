@@ -1,24 +1,40 @@
-# Contributor's Guide
+# Code Contribution Guidelines
 
-Welcome to the Itential Community project! We’re excited to have you here. This guide will help you get started with contributing.
+We welcome and appreciate contributions to our project! To ensure high-quality and consistent contributions, please follow the guidelines below.
 
-Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+## What We Look For
 
-## Issues and PRs
+When submitting your contribution, please make sure it includes the following:
 
-If you have suggestions for how this project could be improved, or want to report a bug, open an issue! We'd love all and any contributions. If you have questions, too, we'd love to hear them.
+### 1. Cleanly Organized Design
+- The code should be modular and well-structured.
+- Follow best practices for readability, maintainability, and scalability.
+- Use clear, descriptive variable and function names.
 
-## Submitting a pull request
+### 2. Reusable Automation Workflows
+- Aim for automation workflows that can be reused in different contexts.
+- Avoid hardcoding values when possible; prefer passing parameters or environment variables.
+- Ensure workflows are documented and easy to understand.
 
-1. [Fork][fork] and clone the repository.
-1. Create a new branch: `git checkout -b my-branch-name`.
-1. Make your change, add tests, and make sure the tests still pass.
-1. Push to your fork and [submit a pull request][pr].
-1. Wait for your pull request to be reviewed and possibly merged.
+### 3. Example Workflows
+- Provide example workflows that demonstrate how the contribution can be used.
+- Include enough detail so that others can easily replicate the setup.
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
-- Should be free of spelling and grammar errors
-- Avoid naming Itential Assets (Workflows, Tasks, Command Templates, etc.) with code-like syntax. No camelCase and/or underscores. Assets should be in proper case.
-- Scrub, scrub, scrub your content. Please do not submit anything that has confidential information, secrets, proprietary data, etc.
+### 4. Clear Description of the Contribution
+- Clearly explain what your contribution does.
+- Describe why it is valuable and how it improves or complements existing functionality.
 
+## Additional Requirements
+
+- **No Sensitive Data**: Ensure your contribution does not contain any sensitive or private data (e.g., API keys, passwords, personal information).
+- **Proper Spelling and Grammar**: Proofread your contribution to make sure it is free of spelling and grammar errors.
+- **Title Case**: Use Title Case for headings, function names, and any other key titles.
+
+## How to Submit
+
+- Submit a pull request with a detailed description of your contribution.
+- Make sure your contribution is fully tested and documented.
+- Address any review comments promptly to ensure a smooth review process.
+
+We value your efforts and look forward to your contributions!
 

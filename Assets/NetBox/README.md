@@ -2,7 +2,7 @@
 Assets for the Itential Platform.
 
 ## Projects
-### Microsoft Teams Project
+### NetBox Project
 - Create Prefix
 - Delete a Prefix
 - Reserve an IP Address

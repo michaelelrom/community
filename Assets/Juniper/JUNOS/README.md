@@ -18,6 +18,8 @@ Sample IAG 4.x Inventory using Ansible:
 ### Juniper JUNOS Project
 - Perform a Software Upgrade
 - Turn Up a Port
+- Command Template Runner
+- Push Configuration
 
 #### Dependencies
 - [Automation Gateway 4.x](https://www.itential.com/automation-gateway/)
