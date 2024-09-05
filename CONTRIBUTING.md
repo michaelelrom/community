@@ -3,24 +3,21 @@
 We welcome and appreciate contributions to our project! To ensure high-quality and consistent contributions, please follow the guidelines below.
 
 ## What We Look For
+- Workflows:
+    - Examples - Examples of how to perform reusable generic tasks.
+    - Sample Use Cases - An example of an orchestrated workflow that utilizes your contribution example.
 
 When submitting your contribution, please make sure it includes the following:
 
-### 1. Cleanly Organized Design
-- The code should be modular and well-structured.
+### 1. Cleanly Organized
+- The Assets should be modular (_where possible_) and well-structured.
 - Follow best practices for readability, maintainability, and scalability.
-- Use clear, descriptive variable and function names.
-
-### 2. Reusable Automation Workflows
+- Use clear, descriptive variable and Asset names.
 - Aim for automation workflows that can be reused in different contexts.
-- Avoid hardcoding values when possible; prefer passing parameters or environment variables.
 - Ensure workflows are documented and easy to understand.
 
-### 3. Example Workflows
-- Provide example workflows that demonstrate how the contribution can be used.
+### 1. Housekeeping Items
 - Include enough detail so that others can easily replicate the setup.
-
-### 4. Clear Description of the Contribution
 - Clearly explain what your contribution does.
 - Describe why it is valuable and how it improves or complements existing functionality.
 

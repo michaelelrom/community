@@ -35,8 +35,6 @@ Sample IAG 4.x Inventory using Ansible:
 ### Incident Management
 - Get Incident Status
 - Close Incident
-<br />
-<br />
 - Sample Use Cases
     - Incident Lifecycle
 
