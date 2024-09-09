@@ -23,8 +23,6 @@ As applicable, the directories in this repository will be structured as follows:
 Even though manual downloads and uploads are always an option, what fun is that? Use our CLI tool located [here]() to automate your experience.
 
 
-scan through the list - pano looks weird 
-
 
 ### Considerations
 
