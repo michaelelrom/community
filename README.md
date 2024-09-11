@@ -24,7 +24,5 @@ Even though manual downloads and uploads are always an option, what fun is that?
 
 
 
-### Considerations
-
 
 
