@@ -15,6 +15,12 @@ Assets for the Itential Platform.
 - Detach and Delete Internet Gateways by VPC
 - Provision a VPC with Networking
 
+#### Dependencies
+- [AWS EC2 Adapter](https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2)
+
+
 ## Golden Configurations
 - [AWS EC2 - Security Group](./Golden%20Configurations/AWS%20-%20Security%20Group.json)
 
+#### Dependencies
+- [AWS EC2 Adapter](https://gitlab.com/itentialopensource/adapters/adapter-aws_ec2)

@@ -47,7 +47,7 @@ Assets for the Itential Platform.
 ## Itential Platform Email
 - Send an Email (SMTP)
 
-### Dependencies
+#### Dependencies
 - [Email Adapter](https://gitlab.com/itentialopensource/adapters/adapter-email)
 
 
@@ -58,6 +58,6 @@ This project contains utilities for Itential Platform Workflows.
 - Produce As Built Documentation
 - Chunk Array For Loop
 
-### Dependencies
+#### Dependencies
 - App Artifacts (Available from Itential Repo)
 - [MongoDB Adapter](https://gitlab.com/itentialopensource/adapters/adapter-db_mongo)

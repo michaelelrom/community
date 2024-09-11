@@ -45,3 +45,7 @@ Sample IAG 4.x Inventory using Netmiko (via Ansible):
 ## Golden Configurations
 - [Cisco IOS - Simple](./Golden%20Configurations/Cisco%20IOS%20-%20Simple.json)
 - [Cisco IOS - Jinja2](./Golden%20Configurations/Cisco%20IOS%20-%20Jinja2.json)
+
+#### Dependencies
+- [Automation Gateway 4.x](https://www.itential.com/automation-gateway/)
+- Automation Gateway Adapter (_ships with Itential Platform_)
