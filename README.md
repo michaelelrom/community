@@ -8,15 +8,14 @@ Have something that we don't? Feel free to sanitize and contribute back followin
 
 As applicable, the directories in this repository will be structured as follows:
 
-    Assets
-    ├── Vendor
-    │   ├── Product
-    │   │   ├── Automations/
-    │   │   ├── Golden Configurations/
-    │   │   ├── LCM Resource Models/
-    │   │   ├── OpenAPIs/
-    │   │   ├── Projects/
-    │   │   └── README.md
+    Vendor
+    ├── Product
+    │   ├── Automations/
+    │   ├── Golden Configurations/
+    │   ├── LCM Resource Models/
+    │   ├── OpenAPIs/
+    │   ├── Projects/
+    │   └── README.md
 
 ## Getting Started
 
