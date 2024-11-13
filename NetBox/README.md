@@ -16,4 +16,4 @@ Assets for the Itential Platform.
 
 #### Dependencies
 - [NetBox 3.x Adapter](https://gitlab.com/itentialopensource/adapters/adapter-netbox_v33)
-- NetBox 4.1 Integration Model
+- NetBox 4.1 Integration
